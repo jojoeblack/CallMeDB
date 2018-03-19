@@ -48,7 +48,7 @@ public class AjaxController extends HttpServlet {
 		            
 		Cookie fullnameCookie = new Cookie("fullname",fullname);
 		
-		fullnameCookie.setMaxAge(864000);
+		fullnameCookie.setMaxAge(1000);
 		
 		            
 		response.addCookie(fullnameCookie);		

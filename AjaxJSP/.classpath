@@ -14,5 +14,19 @@
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
 	<classpathentry kind="lib" path="WebContent/js/jquery-3.3.1.js"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/java-json.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/javax.servlet.jsp.jstl-1.2.1.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/javax.servlet.jsp.jstl-api-1.2.1.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/mysql-connector-java-5.1.45-bin.jar"/>
+	<classpathentry kind="lib" path="js/dynamic-table-editor.jquery.js"/>
+	<classpathentry kind="lib" path="js/dynamic-table.jquery.js"/>
+	<classpathentry kind="lib" path="js/jquery-3.3.1.js"/>
+	<classpathentry kind="lib" path="js/jquery-3.3.1.min.js"/>
+	<classpathentry kind="lib" path="js/jquery-ui.js"/>
+	<classpathentry kind="lib" path="js/jquery.js"/>
+	<classpathentry kind="lib" path="js/jquery.min.js"/>
+	<classpathentry kind="lib" path="js/moment.js"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
